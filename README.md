@@ -1,6 +1,6 @@
 # AA2_LP
 Juego del Ahorcado en Python 
-¡Bienvenido al clásico juego del Ahorcado! Esta es una versión mejorada desarrollada en Python que incluye un sistema de categorías, pistas visuales en arte ASCII y validación de entradas.
+Esta es una versión mejorada desarrollada en Python que incluye un sistema de categorías, pistas visuales en arte ASCII y validación de entradas.
 
 -Características
 Sistema de Categorías: Las palabras se seleccionan de temas específicos (Hogar, Tecnología, Mascotas, Naturaleza) para dar una pista inicial al jugador.
